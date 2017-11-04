@@ -1,0 +1,15 @@
+{
+  "usuarios" : [ {
+    "apellido" : "calero",
+    "edad" : 22,
+    "nombre" : "maria"
+  }, {
+    "apellido" : "castrillo",
+    "edad" : 20,
+    "nombre" : "jerry"
+  }, {
+    "apellido" : "hurbina",
+    "edad" : 28,
+    "nombre" : "jorge"
+  } ]
+}
